@@ -13,17 +13,6 @@ This project focuses on developing a robust email spam detection system using ma
 
 ## 4. Speech Emotion Recognition
 This project aims to develop a robust speech emotion recognition system capableof accurately classifying the emotional states conveyed in spoken language such as happiness, sadness, anger, fear, and more by analyzing the acoustic features of speech signals.
-To access and run these projects on your local machine, follow these steps:
-
-Clone this repository:
-bash
-Copy code
-git clone https://github.com/yuvimor/CVIP-Data-Science.git
-Navigate to the project folder of your choice (e.g., Breast_Cancer_Prediction, EDA_Terrorism, Email_Spam_Detection, or Speech_Emotion_Recognition).
-
-Open the Jupyter Notebook file with your preferred Python environment.
-
-Run the code cells and explore the analyses, visualizations, and results.
 
 # Requirements
 Each project may have specific requirements. Generally, you will need:
